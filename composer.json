@@ -1,0 +1,22 @@
+{
+    "name": "shahimian/yii2-colors",
+    "description": "This extension allows to select colors for back color and fore color.",
+    "minimum-stability": "dev",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","palette","colors"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shahimian",
+            "email": "shahimian@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "widgets\\palettecolors\\": ""
+        }
+    }
+}
